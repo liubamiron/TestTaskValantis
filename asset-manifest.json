@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TestTaskValantis/static/css/main.6ce90f29.css",
+    "main.js": "/TestTaskValantis/static/js/main.d35d4db2.js",
+    "static/js/453.dd53e008.chunk.js": "/TestTaskValantis/static/js/453.dd53e008.chunk.js",
+    "index.html": "/TestTaskValantis/index.html",
+    "main.6ce90f29.css.map": "/TestTaskValantis/static/css/main.6ce90f29.css.map",
+    "main.d35d4db2.js.map": "/TestTaskValantis/static/js/main.d35d4db2.js.map",
+    "453.dd53e008.chunk.js.map": "/TestTaskValantis/static/js/453.dd53e008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce90f29.css",
+    "static/js/main.d35d4db2.js"
+  ]
+}
