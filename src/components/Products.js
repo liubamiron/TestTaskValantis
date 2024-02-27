@@ -24,7 +24,7 @@ export default function Products () {
                 .finally(() => setLoading(false));
     }, []);
 
-    console.log('products', products);
+    console.log('products', products, productsForSort);
 
     const content = products.map((post, index) =>
         <div key={index}>{post}</div>
