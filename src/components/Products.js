@@ -46,10 +46,4 @@ export default function Products () {
         </div>
       </Box>
     );
-    // return (
-    //   <Box className={'box_class'}>
-    //     <div>Products</div>
-    //     <div>{content}</div>
-    //   </Box>
-    // )
   };
